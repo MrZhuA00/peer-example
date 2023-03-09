@@ -1,2 +1,2 @@
 # peer-example
-Using peerjs to realize desktop real-time monitoring
+Using [peerjs](https://github.com/peers/peerjs) to realize desktop real-time monitoring
